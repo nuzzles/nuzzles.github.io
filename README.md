@@ -11,4 +11,4 @@ bundle install
 jekyll serve --livereload
 ```
 
-[**Rendered**](https://simbleau.github.io)
+[**Rendered**](https://nuzzles.github.io)

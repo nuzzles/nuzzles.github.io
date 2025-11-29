@@ -101,7 +101,7 @@ fn main() {
 
 ## Show me
 
-To demonstrate NSight Systems, NVTX, and Rust, I will present a finding I organically stumbled upon when writing a [naive SVG renderer](https://github.com/simbleau/svg-tessellation-renderer) using [Lyon](https://github.com/nical/lyon) and [wgpu](https://wgpu.rs/).
+To demonstrate NSight Systems, NVTX, and Rust, I will present a finding I organically stumbled upon when writing a [naive SVG renderer](https://github.com/nuzzles/svg-tessellation-renderer) using [Lyon](https://github.com/nical/lyon) and [wgpu](https://wgpu.rs/).
 
 ### Situation
 
@@ -131,7 +131,7 @@ This is one example of how annotations have helped me, and work will continue to
 
 ## Features in progress
 
-I have only ported a fraction of the NVTX SDK, and there are some noteworthy features outstanding. NVTX can be used to measure CPU code blocks, track lifetime of CPU resources (e.g., malloc), log critical events[^nvtx_def], and more. I'd love to port [filtering tracers by domains](https://nvidia.github.io/NVTX/doxygen/index.html#DOMAINS) and [resource naming](https://nvidia.github.io/NVTX/doxygen/index.html#RESOURCE_NAMING). Feel free to contribute or check out the [issue board](https://github.com/simbleau/nvtx/issues).
+I have only ported a fraction of the NVTX SDK, and there are some noteworthy features outstanding. NVTX can be used to measure CPU code blocks, track lifetime of CPU resources (e.g., malloc), log critical events[^nvtx_def], and more. I'd love to port [filtering tracers by domains](https://nvidia.github.io/NVTX/doxygen/index.html#DOMAINS) and [resource naming](https://nvidia.github.io/NVTX/doxygen/index.html#RESOURCE_NAMING). Feel free to contribute or check out the [issue board](https://github.com/nuzzles/nvtx/issues).
 
 ---
 <!-- Note: There must be a blank line between every two lines of the footnote difinition.  -->

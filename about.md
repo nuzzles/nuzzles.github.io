@@ -6,8 +6,8 @@ permalink: /about/
 
 This is Spencer C. Imbleau’s blog. He also has a [home page](https://imbleau.com). The opinions expressed in this blog are his, and are not official statements of his employer or [team](https://blueorigin.com).
 
-The source for this blog is [on GitHub](https://github.com/simbleau/simbleau.github.io).
-Pull requests are welcome, as are [issues](https://github.com/simbleau/simbleau.github.io/issues). Issues are also used to track ideas in the pipeline.
+The source for this blog is [on GitHub](https://github.com/nuzzles/nuzzles.github.io).
+Pull requests are welcome, as are [issues](https://github.com/nuzzles/nuzzles.github.io/issues). Issues are also used to track ideas in the pipeline.
 
 Here's a list of [posts by category](/categories.html).
 

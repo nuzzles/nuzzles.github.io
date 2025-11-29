@@ -23,8 +23,8 @@ email: spencer@imbleau.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog of Spencer C. Imbleau
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://simbleau.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: simbleau
+url: "https://nuzzles.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: nuzzles
 mastodon:
 - username: scim
   instance: mastodon.online

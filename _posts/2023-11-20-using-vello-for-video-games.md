@@ -6,7 +6,7 @@ date: 2023-11-20
 modified: 2024-01-15
 categories: rust graphics
 youtubeId: hNu5oF18j5g
-vongDemo: https://simbleau.github.io/vong/
+vongDemo: https://nuzzles.github.io/vong/
 ---
 
 For a few years I've been trying to solve a hard problem: *"How can I use vector graphics as the backing image model in realtime systems?"*
@@ -39,7 +39,7 @@ Matching webgpu, vello, and rust's strengths, [bevy](https://bevyengine.org/) wa
 
 ### Rendering integration
 
-Standing in the way of seeing my first [Ghostscript Tiger](https://commons.wikimedia.org/wiki/File:Ghostscript_tiger_(original_background).svg) (the *Hello, World!* of vector graphics) was an integration to render vector assets in bevy with vello. Sebastian Hamel ([@seabassjh](https://github.com/seabassjh)) and I ([@simbleau](https://github.com/simbleau)) developed that integration in the open, [`bevy-vello`](https://github.com/vectorgameexperts/bevy-vello). Just like any other ordinary asset in bevy, such as a *png*, there are no surprises:
+Standing in the way of seeing my first [Ghostscript Tiger](https://commons.wikimedia.org/wiki/File:Ghostscript_tiger_(original_background).svg) (the *Hello, World!* of vector graphics) was an integration to render vector assets in bevy with vello. Sebastian Hamel ([@seabassjh](https://github.com/seabassjh)) and I ([@nuzzles](https://github.com/nuzzles)) developed that integration in the open, [`bevy-vello`](https://github.com/vectorgameexperts/bevy-vello). Just like any other ordinary asset in bevy, such as a *png*, there are no surprises:
 
 ```rust
 // Bevy 0.12
@@ -104,7 +104,7 @@ Controls:
 - `I`/`K`: Right bacon
 - `C`: Watch egg intensely
 
-You may find the source code [here](https://github.com/simbleau/vong). You may also build and play this natively with `cargo run`.
+You may find the source code [here](https://github.com/nuzzles/vong). You may also build and play this natively with `cargo run`.
 
 ## What now?
 
