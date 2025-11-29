@@ -1,4 +1,4 @@
-# Spencer C. Imbleau
+# Spencer Imbleau
 
 This is the [Jekyll](https://jekyllrb.com/docs/installation/) source for my blog. Pull requests welcome.
 
@@ -11,4 +11,4 @@ bundle install
 jekyll serve --livereload
 ```
 
-[**Rendered**](https://nuzzles.github.io)
+[**Rendered** (GitHub Pages)](https://nuzzles.github.io)
