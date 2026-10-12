@@ -1,14 +1,5 @@
-# Spencer Imbleau
+# Blog moved
 
-This is the [Jekyll](https://jekyllrb.com/docs/installation/) source for my blog. Pull requests welcome.
+Spencer Imbleau's blog now lives at [spencer.imbleau.com/blog](https://spencer.imbleau.com/blog/).
 
-```shell
-# Install, if not already installed
-bundle clean --force
-bundle install
-
-# Serves to http://127.0.0.1:4000/
-jekyll serve --livereload
-```
-
-[**Rendered** (GitHub Pages)](https://nuzzles.github.io)
+The GitHub Pages homepage redirects to the new blog. The former Jekyll site and posts remain available in this repository's Git history.
